@@ -3,11 +3,9 @@
 ### Run locally on your machine
 You need to have installed Node and NPM.
 
-![NodeJS Shopping Cart](/data/nodejs-cart-1.png?raw=true "NodeJS Shopping Cart")
-
 Clone this repository
 ``` shell
-git clone https://github.com/gtsopour/nodejs-shopping-cart.git
+git clone https://github.com/sarahschoonmaker/nodejs-shopping-cart.git
 ```
 
 Install dependencies
@@ -28,5 +26,5 @@ nodemon ./bin/www
 ### Technologies
 NodeJS, Express, Express-Session, Nodemon, hbs - Express.js view engine for handlebars.js
 
-For any extra questions, please contact me at gtsopour@gmail.com. # nodejs-shopping-cart
+
 # nodejs-shopping-cart
